@@ -1,8 +1,3 @@
 # Practice
-echo "# Practice" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/LucySnowVillette/Practice.git
-git push -u origin main
+The object of this proposal is to see how much I know and what I don't. 
+What do you think? Please add comments here. 
